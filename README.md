@@ -16,53 +16,67 @@
 </div>
 
 <!-- ABOUT ME SECTION -->
-<div>
-
-<h2>
-  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People/Technologist.png" width="35"/>
-  &nbsp; <code>whoami</code>
-</h2>
-
-<div align="right">
- <img width="320" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BasudevNaidu&layout=donut&theme=transparent&hide_border=true&title_color=818cf8&text_color=94a3b8&langs_count=8&bg_color=0f172a" />
-</div>
-
-<pre>
-<code>
-name:       "Naidu Basudev"
-alias:      "vasu"
-location:   "India 🇮🇳"
-
-education:
-  degree:   "B.Tech Computer Science"
-  year:     "2nd Year"
-  gpa:      9.07 / 10.0
-
-competitive_prog:
-  leetcode:
-    problems_solved: "400+"
-    rating:          "1600+"
-  codechef:
-    rating:          "1500+"
-
-certifications:
-  - "MongoDB Associate Developer"
-  - "AWS Cloud Practitioner"
-  - "Salesforce Certified AI Associate"
-
-currently_building:
-  - "BasudevBnb — MERN rental platform"
-  - "CyberScan — AI-powered security scanner"
-
-focus_areas:
-  - "Data Structures & Algorithms"
-  - "Full Stack Development (MERN)"
-  - "Advanced Java & System Design"
-
-philosophy: "Build. Break. Improve. ⚡"
-</code>
-</pre>
-
+<div align="center">
+  <div style="width: 100%; max-width: 1080px; display: grid; grid-template-columns: repeat(auto-fit, minmax(340px, 1fr)); gap: 24px; align-items: start;">
+    <div style="position: relative; overflow: hidden; border-radius: 32px; padding: 28px; background: radial-gradient(circle at top left, rgba(99, 102, 241, 0.22), transparent 34%), linear-gradient(180deg, #111827 0%, #0f172a 100%); box-shadow: 0 30px 80px rgba(15, 23, 42, 0.35); border: 1px solid rgba(148, 163, 184, 0.12); height: 620px; display: flex; flex-direction: column;">
+      <div style="display: flex; align-items: center; justify-content: space-between; gap: 16px; margin-bottom: 16px;">
+        <div>
+          <h2 style="margin: 0; font-size: 1.8rem; color: #f8fafc;">Synopsis</h2>
+        </div>
+        <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People/Technologist.png" width="40" style="border-radius: 16px; background: rgba(255,255,255,0.08); padding: 6px;" />
+      </div>
+      <div style="background: rgba(15, 23, 42, 0.96); border: 1px solid rgba(148, 163, 184, 0.14); border-radius: 20px; padding: 14px; flex: 1; overflow-y: auto; color: #cbd5e1; font-family: 'SFMono', 'Fira Code', Consolas, monospace; font-size: 0.8em; line-height: 1.4; white-space: pre-wrap;">
+<span style="color: #7dd3fc;">{</span><br>
+<span style="color: #93c5fd;">  "name"</span><span style="color: #7dd3fc;">:</span> <span style="color: #a5b4fc;">"Naidu Basudev"</span>,<br>
+<span style="color: #93c5fd;">  "alias"</span><span style="color: #7dd3fc;">:</span> <span style="color: #a5b4fc;">"vasu"</span>,<br>
+<span style="color: #93c5fd;">  "location"</span><span style="color: #7dd3fc;">:</span> <span style="color: #a5b4fc;">"India 🇮🇳"</span>,<br>
+<span style="color: #93c5fd;">  "education"</span><span style="color: #7dd3fc;">:</span> <span style="color: #7dd3fc;">{</span><br>
+<span style="color: #93c5fd;">    "degree"</span><span style="color: #7dd3fc;">:</span> <span style="color: #a5b4fc;">"B.Tech Computer Science"</span>,<br>
+<span style="color: #93c5fd;">    "year"</span><span style="color: #7dd3fc;">:</span> <span style="color: #a5b4fc;">"4th Year"</span>,<br>
+<span style="color: #93c5fd;">    "gpa"</span><span style="color: #7dd3fc;">:</span> <span style="color: #a5b4fc;">"9.07 / 10.0"</span><br>
+<span style="color: #7dd3fc;">  },</span><br>
+<span style="color: #93c5fd;">  "competitive_prog"</span><span style="color: #7dd3fc;">:</span> <span style="color: #7dd3fc;">{</span><br>
+<span style="color: #93c5fd;">    "leetcode"</span><span style="color: #7dd3fc;">:</span> <span style="color: #7dd3fc;">{</span><br>
+<span style="color: #93c5fd;">      "problems_solved"</span><span style="color: #7dd3fc;">:</span> <span style="color: #a5b4fc;">"400+"</span>,<br>
+<span style="color: #93c5fd;">      "rating"</span><span style="color: #7dd3fc;">:</span> <span style="color: #a5b4fc;">"1600+"</span><br>
+<span style="color: #7dd3fc;">    },</span><br>
+<span style="color: #93c5fd;">    "codechef"</span><span style="color: #7dd3fc;">:</span> <span style="color: #7dd3fc;">{</span><br>
+<span style="color: #93c5fd;">      "rating"</span><span style="color: #7dd3fc;">:</span> <span style="color: #a5b4fc;">"1500+"</span><br>
+<span style="color: #7dd3fc;">    }</span><br>
+<span style="color: #7dd3fc;">  },</span><br>
+<span style="color: #93c5fd;">  "certifications"</span><span style="color: #7dd3fc;">:</span> <span style="color: #c7d2fe;">[</span><br>
+<span style="color: #a5b4fc;">    "MongoDB Associate Developer"</span>,<br>
+<span style="color: #a5b4fc;">    "AWS Cloud Practitioner"</span>,<br>
+<span style="color: #a5b4fc;">    "Salesforce Certified AI Associate"</span><br>
+<span style="color: #c7d2fe;">  ],</span><br>
+<span style="color: #93c5fd;">  "currently_building"</span><span style="color: #7dd3fc;">:</span> <span style="color: #c7d2fe;">[</span><br>
+<span style="color: #a5b4fc;">    "BasudevBnb — MERN rental platform"</span>,<br>
+<span style="color: #a5b4fc;">    "CyberScan — AI-powered security scanner"</span><br>
+<span style="color: #c7d2fe;">  ],</span><br>
+<span style="color: #93c5fd;">  "focus_areas"</span><span style="color: #7dd3fc;">:</span> <span style="color: #c7d2fe;">[</span><br>
+<span style="color: #a5b4fc;">    "Data Structures & Algorithms"</span>,<br>
+<span style="color: #a5b4fc;">    "Full Stack Development (MERN)"</span>,<br>
+<span style="color: #a5b4fc;">    "Advanced Java & System Design"</span><br>
+<span style="color: #c7d2fe;">  ],</span><br>
+<span style="color: #93c5fd;">  "philosophy"</span><span style="color: #7dd3fc;">:</span> <span style="color: #a5b4fc;">"Build. Break. Improve. ⚡"</span><br>
+<span style="color: #7dd3fc;">}</span>
+      </div>
+    </div>
+    <div style="position: relative; overflow: hidden; border-radius: 32px; padding: 28px; background: radial-gradient(circle at top right, rgba(56, 189, 248, 0.18), transparent 30%), linear-gradient(180deg, #111827 0%, #0b1220 100%); box-shadow: 0 30px 80px rgba(15, 23, 42, 0.34); border: 1px solid rgba(148, 163, 184, 0.12); height: 620px; display: flex; flex-direction: column;">
+      <div style="display: flex; align-items: center; justify-content: space-between; gap: 16px; margin-bottom: 16px;">
+        <div>
+          <p style="margin: 0 0 8px; color: #7dd3fc; text-transform: uppercase; letter-spacing: 0.16em; font-size: 0.80rem;">GitHub metrics</p>
+          <h2 style="margin: 0; font-size: 1.8rem; color: #f8fafc;">Most Used Languages</h2>
+        </div>
+        <span style="display: inline-flex; align-items: center; gap: 8px; background: rgba(255,255,255,0.08); border-radius: 999px; padding: 8px 14px; color: #cbd5e1; font-size: 0.85rem;">
+          <strong style="color:#7dd3fc;">Top 8</strong>
+        </span>
+      </div>
+      <div style="background: rgba(15, 23, 42, 0.95); border-radius: 20px; padding: 14px; border: 1px solid rgba(148, 163, 184, 0.14); flex: 1; display: flex; align-items: center; justify-content: center;">
+        <img width="100%" style="max-height: 100%; border-radius: 16px;" src="https://github-readme-stats.shion.dev/api/top-langs/?username=BasudevNaidu&theme=dark&hide_border=false&include_all_commits=false&count_private=false&langs_count=8" />
+      </div>
+    </div>
+  </div>
 </div>
 
 
@@ -74,7 +88,6 @@ philosophy: "Build. Break. Improve. ⚡"
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.shion.dev/api?username=BasudevNaidu&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://streak-stats.demolab.com/?user=BasudevNaidu&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=BasudevNaidu&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
