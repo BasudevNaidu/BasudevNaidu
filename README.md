@@ -17,13 +17,75 @@
 
 <div align="center">
 
-<!-- Gradient Title -->
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:6366f1,100:8b5cf6&height=80&section=header&text=whoami.json&fontSize=28&fontColor=ffffff&animation=fadeIn" />
+<div align="center">
 
-<!-- JSON Card -->
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=14&duration=20&pause=999999&color=E5E7EB&background=00000000&center=true&vCenter=true&multiline=true&repeat=false&width=700&height=420&lines=%7B;++++++++%22name%22%3A+%22Naidu+Basudev%22%2C;++++++++%22alias%22%3A+%22vasu%22%2C;++++++++%22location%22%3A+%22India+%F0%9F%87%AE%F0%9F%87%B3%22%2C;;++++++++%22education%22%3A+%7B;++++++++++++++++%22degree%22%3A+%22B.Tech+Computer+Science%22%2C;++++++++++++++++%22year%22%3A+%222nd+Year%22%2C;++++++++++++++++%22gpa%22%3A+%229.07+%2F+10.0%22;++++++++%7D%2C;;++++++++%22competitive_prog%22%3A+%7B;++++++++++++++++%22leetcode%22%3A+%7B;++++++++++++++++++++++++%22problems_solved%22%3A+%22400%2B%22%2C;++++++++++++++++++++++++%22rating%22%3A+%221600%2B%22;++++++++++++++++%7D%2C;++++++++++++++++%22codechef%22%3A+%7B;++++++++++++++++++++++++%22rating%22%3A+%221500%2B%22;++++++++++++++++%7D;++++++++%7D%2C;;++++++++%22certifications%22%3A+%5B;++++++++++++++++%22MongoDB+Associate+Developer%22%2C;++++++++++++++++%22AWS+Cloud+Practitioner%22%2C;++++++++++++++++%22Salesforce+Certified+AI+Associate%22;++++++++%5D%2C;;++++++++%22systems_building%22%3A+%5B;++++++++++++++++%22BasudevBnb+%E2%80%94+MERN+rental+platform%22%2C;++++++++++++++++%22CyberScan+%E2%80%94+AI+security+scanner%22;++++++++%5D%2C;;++++++++%22focus%22%3A+%5B;++++++++++++++++%22DSA%22%2C;++++++++++++++++%22Full+Stack+(MERN)%22%2C;++++++++++++++++%22Advanced+Java%22;++++++++%5D%2C;;++++++++%22tagline%22%3A+%22Build.+Break.+Improve.+%E2%9A%A1%22;%7D" />
+<div style="
+  max-width: 750px;
+  text-align: left;
+  background: linear-gradient(135deg, #0f172a, #020617);
+  border-radius: 16px;
+  padding: 20px;
+  border: 1px solid rgba(99,102,241,0.3);
+  box-shadow: 0 0 30px rgba(99,102,241,0.2);
+  font-family: 'Fira Code', monospace;
+  color: #e5e7eb;
+">
+
+<div style="
+  font-size: 18px;
+  font-weight: 600;
+  color: #818cf8;
+  margin-bottom: 12px;
+">
+📦 Synopsis
+</div>
+
+<pre style="margin:0; white-space: pre-wrap;">
+{
+  "name": "Naidu Basudev",
+  "alias": "vasu",
+  "location": "India 🇮🇳",
+
+  "education": {
+    "degree": "B.Tech Computer Science",
+    "year": "2nd Year",
+    "gpa": "9.07 / 10.0"
+  },
+
+  "competitive_prog": {
+    "leetcode": {
+      "problems_solved": "400+",
+      "rating": "1600+"
+    },
+    "codechef": {
+      "rating": "1500+"
+    }
+  },
+
+  "certifications": [
+    "MongoDB Associate Developer",
+    "AWS Cloud Practitioner",
+    "Salesforce Certified AI Associate"
+  ],
+
+  "systems_building": [
+    "BasudevBnb — MERN rental platform",
+    "CyberScan — AI security scanner"
+  ],
+
+  "focus": [
+    "DSA",
+    "Full Stack (MERN)",
+    "Advanced Java"
+  ],
+
+  "tagline": "Build. Break. Improve. ⚡"
+}
+</pre>
 
 </div>
+</div>
+
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/basudev1728/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/naidu-basudev-96b7a6289/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:basudevnaidu2@gmail.com) 
