@@ -17,66 +17,11 @@
 
 <!-- ABOUT ME SECTION -->
 <div align="center">
-  <div style="width: 100%; max-width: 1080px; display: grid; grid-template-columns: repeat(auto-fit, minmax(340px, 1fr)); gap: 24px; align-items: start;">
-    <div style="position: relative; overflow: hidden; border-radius: 32px; padding: 28px; background: radial-gradient(circle at top left, rgba(99, 102, 241, 0.22), transparent 34%), linear-gradient(180deg, #111827 0%, #0f172a 100%); box-shadow: 0 30px 80px rgba(15, 23, 42, 0.35); border: 1px solid rgba(148, 163, 184, 0.12); height: 620px; display: flex; flex-direction: column;">
-      <div style="display: flex; align-items: center; justify-content: space-between; gap: 16px; margin-bottom: 16px;">
-        <div>
-          <h2 style="margin: 0; font-size: 1.8rem; color: #f8fafc;">Synopsis</h2>
-        </div>
-        <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People/Technologist.png" width="40" style="border-radius: 16px; background: rgba(255,255,255,0.08); padding: 6px;" />
-      </div>
-      <div style="background: rgba(15, 23, 42, 0.96); border: 1px solid rgba(148, 163, 184, 0.14); border-radius: 20px; padding: 14px; flex: 1; overflow-y: auto; color: #cbd5e1; font-family: 'SFMono', 'Fira Code', Consolas, monospace; font-size: 0.9em; line-height: 1.5; white-space: pre-wrap;">
-<span style="color: #06b6d4;">{</span><br>
-<span style="color: #3b82f6;">  "name"</span><span style="color: #06b6d4;">:</span> <span style="color: #10b981;">"Naidu Basudev"</span>,<br>
-<span style="color: #3b82f6;">  "alias"</span><span style="color: #06b6d4;">:</span> <span style="color: #10b981;">"vasu"</span>,<br>
-<span style="color: #3b82f6;">  "location"</span><span style="color: #06b6d4;">:</span> <span style="color: #10b981;">"India 🇮🇳"</span>,<br>
-<span style="color: #3b82f6;">  "education"</span><span style="color: #06b6d4;">:</span> <span style="color: #06b6d4;">{</span><br>
-<span style="color: #3b82f6;">    "degree"</span><span style="color: #06b6d4;">:</span> <span style="color: #10b981;">"B.Tech Computer Science"</span>,<br>
-<span style="color: #3b82f6;">    "year"</span><span style="color: #06b6d4;">:</span> <span style="color: #10b981;">"4th Year"</span>,<br>
-<span style="color: #3b82f6;">    "gpa"</span><span style="color: #06b6d4;">:</span> <span style="color: #10b981;">"9.07 / 10.0"</span><br>
-<span style="color: #06b6d4;">  },</span><br>
-<span style="color: #3b82f6;">  "competitive_prog"</span><span style="color: #06b6d4;">:</span> <span style="color: #06b6d4;">{</span><br>
-<span style="color: #3b82f6;">    "leetcode"</span><span style="color: #06b6d4;">:</span> <span style="color: #06b6d4;">{</span><br>
-<span style="color: #3b82f6;">      "problems_solved"</span><span style="color: #06b6d4;">:</span> <span style="color: #10b981;">"400+"</span>,<br>
-<span style="color: #3b82f6;">      "rating"</span><span style="color: #06b6d4;">:</span> <span style="color: #10b981;">"1600+"</span><br>
-<span style="color: #06b6d4;">    },</span><br>
-<span style="color: #3b82f6;">    "codechef"</span><span style="color: #06b6d4;">:</span> <span style="color: #06b6d4;">{</span><br>
-<span style="color: #3b82f6;">      "rating"</span><span style="color: #06b6d4;">:</span> <span style="color: #10b981;">"1500+"</span><br>
-<span style="color: #06b6d4;">    }</span><br>
-<span style="color: #06b6d4;">  },</span><br>
-<span style="color: #3b82f6;">  "certifications"</span><span style="color: #06b6d4;">:</span> <span style="color: #8b5cf6;">[</span><br>
-<span style="color: #10b981;">    "MongoDB Associate Developer"</span>,<br>
-<span style="color: #10b981;">    "AWS Cloud Practitioner"</span>,<br>
-<span style="color: #10b981;">    "Salesforce Certified AI Associate"</span><br>
-<span style="color: #8b5cf6;">  ],</span><br>
-<span style="color: #3b82f6;">  "currently_building"</span><span style="color: #06b6d4;">:</span> <span style="color: #8b5cf6;">[</span><br>
-<span style="color: #10b981;">    "BasudevBnb — MERN rental platform"</span>,<br>
-<span style="color: #10b981;">    "CyberScan — AI-powered security scanner"</span><br>
-<span style="color: #8b5cf6;">  ],</span><br>
-<span style="color: #3b82f6;">  "focus_areas"</span><span style="color: #06b6d4;">:</span> <span style="color: #8b5cf6;">[</span><br>
-<span style="color: #10b981;">    "Data Structures & Algorithms"</span>,<br>
-<span style="color: #10b981;">    "Full Stack Development (MERN)"</span>,<br>
-<span style="color: #10b981;">    "Advanced Java & System Design"</span><br>
-<span style="color: #8b5cf6;">  ],</span><br>
-<span style="color: #3b82f6;">  "philosophy"</span><span style="color: #06b6d4;">:</span> <span style="color: #10b981;">"Build. Break. Improve. ⚡"</span><br>
-<span style="color: #06b6d4;">}</span>
-      </div>
-    </div>
-    <div style="position: relative; overflow: hidden; border-radius: 32px; padding: 28px; background: radial-gradient(circle at top right, rgba(56, 189, 248, 0.18), transparent 30%), linear-gradient(180deg, #111827 0%, #0b1220 100%); box-shadow: 0 30px 80px rgba(15, 23, 42, 0.34); border: 1px solid rgba(148, 163, 184, 0.12); height: 620px; display: flex; flex-direction: column;">
-      <div style="display: flex; align-items: center; justify-content: space-between; gap: 16px; margin-bottom: 16px;">
-        <div>
-          <p style="margin: 0 0 8px; color: #7dd3fc; text-transform: uppercase; letter-spacing: 0.16em; font-size: 0.80rem;">GitHub metrics</p>
-          <h2 style="margin: 0; font-size: 1.8rem; color: #f8fafc;">Most Used Languages</h2>
-        </div>
-        <span style="display: inline-flex; align-items: center; gap: 8px; background: rgba(255,255,255,0.08); border-radius: 999px; padding: 8px 14px; color: #cbd5e1; font-size: 0.85rem;">
-          <strong style="color:#7dd3fc;">Top 8</strong>
-        </span>
-      </div>
-      <div style="background: rgba(15, 23, 42, 0.95); border-radius: 20px; padding: 14px; border: 1px solid rgba(148, 163, 184, 0.14); flex: 1; display: flex; align-items: center; justify-content: center;">
-        <img width="100%" style="max-height: 100%; border-radius: 16px;" src="https://github-readme-stats.shion.dev/api/top-langs/?username=BasudevNaidu&theme=dark&hide_border=false&include_all_commits=false&count_private=false&langs_count=8" />
-      </div>
-    </div>
-  </div>
+
+| Synopsis | GitHub Metrics |
+|----------|----------------|
+| <div style="background: #1e293b; border: 1px solid #334155; border-radius: 12px; padding: 20px; color: #e2e8f0; font-family: monospace; font-size: 14px; line-height: 1.5;"><h3 style="color: #f1f5f9; margin-top: 0;">Synopsis <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People/Technologist.png" width="30" style="vertical-align: middle;"/></h3><br><br><pre style="margin: 0; white-space: pre-wrap;"><span style="color: #06b6d4;">{</span><br><span style="color: #3b82f6;">  "name"</span><span style="color: #06b6d4;">:</span> <span style="color: #10b981;">"Naidu Basudev"</span><span style="color: #06b6d4;">,</span><br><span style="color: #3b82f6;">  "alias"</span><span style="color: #06b6d4;">:</span> <span style="color: #10b981;">"vasu"</span><span style="color: #06b6d4;">,</span><br><span style="color: #3b82f6;">  "location"</span><span style="color: #06b6d4;">:</span> <span style="color: #10b981;">"India 🇮🇳"</span><span style="color: #06b6d4;">,</span><br><span style="color: #3b82f6;">  "education"</span><span style="color: #06b6d4;">:</span> <span style="color: #06b6d4;">{</span><br><span style="color: #3b82f6;">    "degree"</span><span style="color: #06b6d4;">:</span> <span style="color: #10b981;">"B.Tech Computer Science"</span><span style="color: #06b6d4;">,</span><br><span style="color: #3b82f6;">    "year"</span><span style="color: #06b6d4;">:</span> <span style="color: #10b981;">"4th Year"</span><span style="color: #06b6d4;">,</span><br><span style="color: #3b82f6;">    "gpa"</span><span style="color: #06b6d4;">:</span> <span style="color: #10b981;">"9.07 / 10.0"</span><br><span style="color: #06b6d4;">  },</span><br><span style="color: #3b82f6;">  "competitive_prog"</span><span style="color: #06b6d4;">:</span> <span style="color: #06b6d4;">{</span><br><span style="color: #3b82f6;">    "leetcode"</span><span style="color: #06b6d4;">:</span> <span style="color: #06b6d4;">{</span><br><span style="color: #3b82f6;">      "problems_solved"</span><span style="color: #06b6d4;">:</span> <span style="color: #10b981;">"400+"</span><span style="color: #06b6d4;">,</span><br><span style="color: #3b82f6;">      "rating"</span><span style="color: #06b6d4;">:</span> <span style="color: #10b981;">"1600+"</span><br><span style="color: #06b6d4;">    },</span><br><span style="color: #3b82f6;">    "codechef"</span><span style="color: #06b6d4;">:</span> <span style="color: #06b6d4;">{</span><br><span style="color: #3b82f6;">      "rating"</span><span style="color: #06b6d4;">:</span> <span style="color: #10b981;">"1500+"</span><br><span style="color: #06b6d4;">    }</span><br><span style="color: #06b6d4;">  },</span><br><span style="color: #3b82f6;">  "certifications"</span><span style="color: #06b6d4;">:</span> <span style="color: #8b5cf6;">[</span><br><span style="color: #10b981;">    "MongoDB Associate Developer"</span><span style="color: #06b6d4;">,</span><br><span style="color: #10b981;">    "AWS Cloud Practitioner"</span><span style="color: #06b6d4;">,</span><br><span style="color: #10b981;">    "Salesforce Certified AI Associate"</span><br><span style="color: #8b5cf6;">  ],</span><br><span style="color: #3b82f6;">  "currently_building"</span><span style="color: #06b6d4;">:</span> <span style="color: #8b5cf6;">[</span><br><span style="color: #10b981;">    "BasudevBnb — MERN rental platform"</span><span style="color: #06b6d4;">,</span><br><span style="color: #10b981;">    "CyberScan — AI-powered security scanner"</span><br><span style="color: #8b5cf6;">  ],</span><br><span style="color: #3b82f6;">  "focus_areas"</span><span style="color: #06b6d4;">:</span> <span style="color: #8b5cf6;">[</span><br><span style="color: #10b981;">    "Data Structures & Algorithms"</span><span style="color: #06b6d4;">,</span><br><span style="color: #10b981;">    "Full Stack Development (MERN)"</span><span style="color: #06b6d4;">,</span><br><span style="color: #10b981;">    "Advanced Java & System Design"</span><br><span style="color: #8b5cf6;">  ],</span><br><span style="color: #3b82f6;">  "philosophy"</span><span style="color: #06b6d4;">:</span> <span style="color: #10b981;">"Build. Break. Improve. ⚡"</span><br><span style="color: #06b6d4;">}</span></pre></div> | <div style="background: #1e293b; border: 1px solid #334155; border-radius: 12px; padding: 20px; color: #e2e8f0;"><h3 style="color: #f1f5f9; margin-top: 0;">Most Used Languages <span style="background: #374151; padding: 4px 8px; border-radius: 12px; font-size: 12px; color: #7dd3fc;">Top 8</span></h3><br><br><img width="100%" style="border-radius: 8px;" src="https://github-readme-stats.shion.dev/api/top-langs/?username=BasudevNaidu&theme=dark&hide_border=false&include_all_commits=false&count_private=false&langs_count=8" /></div> |
+
 </div>
 
 
