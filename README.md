@@ -2,14 +2,14 @@
 <div align="center">
 
 <!-- HERO BANNER -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&color=0:020817,30:0f172a,60:1e1b4b,100:312e81&height=280&section=header&text=B%20NAIDU%20BASUDEV&fontSize=72&fontColor=e2e8f0&fontAlignY=45&animation=scaleIn&stroke=6366f1&strokeWidth=2" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&color=0:020817,30:0f172a,60:1e1b4b,100:312e81&height=280&section=header&text=NAIDU%20BASUDEV&fontSize=72&fontColor=e2e8f0&fontAlignY=45&animation=scaleIn&stroke=6366f1&strokeWidth=2" />
 
 </div>
 
 <!-- ANIMATED TYPING -->
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=818CF8&center=true&vCenter=true&multiline=false&repeat=true&width=600&lines=%F0%9F%92%BB+Software+Engineer;%F0%9F%9A%80+Full+Stack+Developer;%F0%9F%8C%8D+Turning+Ideas+Into+Code;%F0%9F%8F%97%EF%B8%8F+Building+for+real+users+%26+production)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=818CF8&center=true&vCenter=true&multiline=false&repeat=true&width=600&lines=%F0%9F%92%BB+Software+Engineer;%F0%9F%9A%80+Full+Stack+Developer;%F0%9F%8C%8D+Turning+Ideas+Into+Code;%F0%9F%8F%97%EF%B8%8F+Code.+Break.+Optimize.+Repeat.)](https://git.io/typing-svg)
 
 </div>
 
