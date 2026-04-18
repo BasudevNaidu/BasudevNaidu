@@ -15,75 +15,54 @@
 
 </div>
 
-<div align="center">
+<!-- ABOUT ME SECTION -->
+<div>
 
-<div align="center">
+<h2>
+  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People/Technologist.png" width="35"/>
+  &nbsp; <code>whoami</code>
+</h2>
 
-<div style="
-  max-width: 750px;
-  text-align: left;
-  background: linear-gradient(135deg, #0f172a, #020617);
-  border-radius: 16px;
-  padding: 20px;
-  border: 1px solid rgba(99,102,241,0.3);
-  box-shadow: 0 0 30px rgba(99,102,241,0.2);
-  font-family: 'Fira Code', monospace;
-  color: #e5e7eb;
-">
-
-<div style="
-  font-size: 18px;
-  font-weight: 600;
-  color: #818cf8;
-  margin-bottom: 12px;
-">
-📦 Synopsis
+<div align="right">
+  <img width="320" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=donut&theme=transparent&hide_border=true&title_color=818cf8&text_color=94a3b8&langs_count=8&bg_color=0f172a" />
 </div>
 
-<pre style="margin:0; white-space: pre-wrap;">
-{
-  "name": "Naidu Basudev",
-  "alias": "vasu",
-  "location": "India 🇮🇳",
+<pre>
+<code>
+name:       "Naidu Basudev"
+alias:      "vasu"
+location:   "India 🇮🇳"
 
-  "education": {
-    "degree": "B.Tech Computer Science",
-    "year": "2nd Year",
-    "gpa": "9.07 / 10.0"
-  },
+education:
+  degree:   "B.Tech Computer Science"
+  year:     "2nd Year"
+  gpa:      9.07 / 10.0
 
-  "competitive_prog": {
-    "leetcode": {
-      "problems_solved": "400+",
-      "rating": "1600+"
-    },
-    "codechef": {
-      "rating": "1500+"
-    }
-  },
+competitive_prog:
+  leetcode:
+    problems_solved: "400+"
+    rating:          "1600+"
+  codechef:
+    rating:          "1500+"
 
-  "certifications": [
-    "MongoDB Associate Developer",
-    "AWS Cloud Practitioner",
-    "Salesforce Certified AI Associate"
-  ],
+certifications:
+  - "MongoDB Associate Developer"
+  - "AWS Cloud Practitioner"
+  - "Salesforce Certified AI Associate"
 
-  "systems_building": [
-    "BasudevBnb — MERN rental platform",
-    "CyberScan — AI security scanner"
-  ],
+currently_building:
+  - "BasudevBnb — MERN rental platform"
+  - "CyberScan — AI-powered security scanner"
 
-  "focus": [
-    "DSA",
-    "Full Stack (MERN)",
-    "Advanced Java"
-  ],
+focus_areas:
+  - "Data Structures & Algorithms"
+  - "Full Stack Development (MERN)"
+  - "Advanced Java & System Design"
 
-  "tagline": "Build. Break. Improve. ⚡"
-}
+philosophy: "Build. Break. Improve. ⚡"
+</code>
 </pre>
 
-</div>
 </div>
 
 
