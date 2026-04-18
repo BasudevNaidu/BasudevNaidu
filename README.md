@@ -24,7 +24,7 @@
 </h2>
 
 <div align="right">
-  <img width="320" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=donut&theme=transparent&hide_border=true&title_color=818cf8&text_color=94a3b8&langs_count=8&bg_color=0f172a" />
+ <img width="320" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BasudevNaidu&layout=donut&theme=transparent&hide_border=true&title_color=818cf8&text_color=94a3b8&langs_count=8&bg_color=0f172a" />
 </div>
 
 <pre>
